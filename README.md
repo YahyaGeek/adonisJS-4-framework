@@ -30,4 +30,4 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
-## Hello, this is me Yahya, the most brilliant Geek
+## Hello, this is me Yahya, the most brilliant Geek.
